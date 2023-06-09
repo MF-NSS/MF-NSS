@@ -1,12 +1,4 @@
-*.txt filter=lfs diff=lfs merge=lfs -text
-*.pkl filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-*.tsv filter=lfs diff=lfs merge=lfs -text
-MV/*.txt filter=lfs diff=lfs merge=lfs -text
-MV/*.pkl filter=lfs diff=lfs merge=lfs -text
-MV/*.csv filter=lfs diff=lfs merge=lfs -text
-MV/*.tsv filter=lfs diff=lfs merge=lfs -text
-MVB/*.txt filter=lfs diff=lfs merge=lfs -text
-MVB/*.pkl filter=lfs diff=lfs merge=lfs -text
-MVB/*.csv filter=lfs diff=lfs merge=lfs -text
-MVB/*.tsv filter=lfs diff=lfs merge=lfs -text
+CD_curated.csv filter=lfs diff=lfs merge=lfs -text
+CD_curated_AUG.csv filter=lfs diff=lfs merge=lfs -text
+CD_curated_num.csv filter=lfs diff=lfs merge=lfs -text
+CD_curated_num.tsv filter=lfs diff=lfs merge=lfs -text
