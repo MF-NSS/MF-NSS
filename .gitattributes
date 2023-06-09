@@ -2,3 +2,10 @@ CD_curated.csv filter=lfs diff=lfs merge=lfs -text
 CD_curated_AUG.csv filter=lfs diff=lfs merge=lfs -text
 CD_curated_num.csv filter=lfs diff=lfs merge=lfs -text
 CD_curated_num.tsv filter=lfs diff=lfs merge=lfs -text
+MV/train.txt filter=lfs diff=lfs merge=lfs -text
+MVB/train.txt filter=lfs diff=lfs merge=lfs -text
+MV/train_num.txt filter=lfs diff=lfs merge=lfs -text
+MVB/train_num.txt filter=lfs diff=lfs merge=lfs -text
+labels.csv filter=lfs diff=lfs merge=lfs -text
+MV/labels.csv filter=lfs diff=lfs merge=lfs -text
+MVB/labels.csv filter=lfs diff=lfs merge=lfs -text
